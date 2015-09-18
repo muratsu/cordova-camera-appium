@@ -1,0 +1,19 @@
+{
+  "name": "test-proj",
+  "version": "0.0.1",
+  "description": "test app for appium",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Murat Sutunc",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^3.2.0",
+    "chai-as-promised": "^5.1.0",
+    "colors": "^1.1.2",
+    "q": "^1.4.1",
+    "underscore": "^1.8.3",
+    "wd": "^0.3.12"
+  }
+}
